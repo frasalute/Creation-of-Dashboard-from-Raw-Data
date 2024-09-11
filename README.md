@@ -13,7 +13,6 @@ The workflow of data cleaning before exporting the data to SQL consisted of gett
 
 Further preprocessing steps for the EDA consisted of handling missing values, dropping duplicates and unnecessary columns, performing additional transformations on the data, and developing additional attributes.
 
-![Uploading Schermata 2024-09-11 alle 00.17.42.png…]() 
 
 
 Facilitating decision-making concerning guest satisfaction, the business recommendations are re- flected in the dashboard design. The dashboard is divided into the Overview, Host, and Neigh- borhood sections, each with its visualisations and functionalities, tailored to the information to be conveyed.
