@@ -1,6 +1,6 @@
 # Creation-of-Dashboard-from-Raw-Data
 
-(Done in a university setting as project part of a Data Management and Visualization class together with other two students.)
+(Done in a university setting as project part of a Data Management and Visualization class together with other three students.)
 
 # Executive Summary
 This project aims to enhance the understanding of Airbnb guests’ preferences and ultimately in- crease guest satisfaction. It provides insights for management and corresponding business recom- mendations based on an exploratory data analysis (EDA) and a dashboard. 
