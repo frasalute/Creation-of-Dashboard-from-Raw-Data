@@ -30,7 +30,7 @@ The project focuses on building an **interactive dashboard** to analyze Airbnb g
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/Creation-of-Dashboard-from-Raw-Data.git
+git clone https://github.com/yfrasalute/Creation-of-Dashboard-from-Raw-Data.git
 cd Creation-of-Dashboard-from-Raw-Data
 ```
 
